@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"bibliography_factory","l":"Article"},{"p":"bibliography_factory","l":"BibliographyFactory"},{"p":"bibliography_factory","l":"FileInvalidException"},{"p":"bibliography_factory","l":"JsonData"}]
